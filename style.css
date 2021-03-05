@@ -16,6 +16,8 @@ text-align: center;
 box-shadow:         12px 12px 29px #52FFEE;
 animation:bounceIn; /* referring directly to the animation's @keyframe declaration */
 animation-duration: 1s; /* don't forget to set a duration! */
+padding-left: 5%;
+padding-right: 5%;
 }
 .loser{
     text-align: center;
@@ -107,3 +109,4 @@ body {
 
 .gradient-button-4 {background-image: linear-gradient(to right, #00d2ff 0%, #3a7bd5 51%, #00d2ff 100%)}
 .gradient-button-4:hover { background-position: right center; }
+  
